@@ -1,0 +1,16 @@
+.job-component {
+    .clear-filters-button {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 2rem;
+      padding-left: 1250px;
+      
+      .clear-filters-text {
+        background-color: #3b82f6;
+        padding: 0.5rem 2.5rem;
+        border-radius: 0.375rem;
+        color: #ffffff;
+      }
+    }
+  }
+  
